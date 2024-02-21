@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hey! 👋
 
+I am currently pursuing a bachelor's degree in Automation Sciences, as I have a keen interest in studying computer technology.
+
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently pursuing a bachelor's degree in Automation Sciences.
+- 📫 How to reach me: rutaisun@outlook.com
+- ⚡ Fun fact: Toho is a must-see.
 <!--
 **SunRt233/SunRt233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
