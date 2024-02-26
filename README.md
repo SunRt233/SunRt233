@@ -6,6 +6,9 @@ I am currently pursuing a bachelor's degree in Automation Sciences, as I have a 
 - 🌱 I’m currently pursuing a bachelor's degree in Automation Sciences.
 - 📫 How to reach me: rutaisun@outlook.com
 - ⚡ Fun fact: Toho is a must-see.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SunRt233)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **SunRt233/SunRt233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
