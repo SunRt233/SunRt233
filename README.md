@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I am currently pursuing a bachelor's degree in Automation Sciences, as I have a keen interest in studying computer technology.
+
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently pursuing a bachelor's degree in Automation Sciences.
