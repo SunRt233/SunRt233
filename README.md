@@ -1,4 +1,4 @@
-e### Hey! 👋
+### Hey! 👋
 
 
 
@@ -7,7 +7,7 @@ e### Hey! 👋
 - 📫 How to reach me: rutaisun@outlook.com
 - ⚡ Fun fact: Toho is a must-see.
 
-[![Sunrt233's github stats](https://github-readme-stats.vercel.app/api?username=SunRt233)](https://github.com/anuraghazra/github-readme-stats)
+[![Sunrt233's github stats](https://github-readme-stats.vercel.app/api?username=SunRt233&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SunRt233/SunRt233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
